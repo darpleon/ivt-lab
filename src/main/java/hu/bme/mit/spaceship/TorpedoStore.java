@@ -60,3 +60,5 @@ public class TorpedoStore {
     return this.torpedoCount;
   }
 }
+
+// ez a komment jelzi a fájl végét
